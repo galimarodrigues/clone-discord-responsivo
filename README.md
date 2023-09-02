@@ -6,5 +6,5 @@ Projeto de HMTL e CSS de Clone da página do Discord utilizando os conceitos de 
 > - Neste projeto segui as orientações do arquivo do Figma disponibilizado no curso.
 
 ## Confira o Projeto no GitHubPages:
-> - https://galimarodrigues.github.io/clone-discord-responsivo/
+> - https://galimarodrigues.github.io/clone-discord-responsivo
 
