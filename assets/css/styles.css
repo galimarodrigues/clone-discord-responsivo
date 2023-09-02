@@ -12,7 +12,7 @@ body {
 header {
   position: relative;
   height: 478px;
-  background-image: url(../assets/pictures/Header\ Background.png);
+  background-image: url('./assets/pictures/Header\ Background.png');
   background-repeat: no-repeat;
 }
 .Containerheader h1 {
