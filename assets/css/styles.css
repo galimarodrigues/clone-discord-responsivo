@@ -12,7 +12,7 @@ body {
 header {
   position: relative;
   height: 478px;
-  background-image: url(assets/pictures/Header\ Background.png);
+  background-image: url(../assets/pictures/Header\ Background.png);
   background-repeat: no-repeat;
 }
 .Containerheader h1 {
@@ -145,7 +145,7 @@ main {
   left: 0px;
   top: 933px;
   background: #f6f6f6;
-  background-image: url(assets/pictures/Section\ Image\ 1.png);
+  background-image: url('assets/pictures/Section\ Image\ 1.png');
   background-repeat: no-repeat;
   background-position: 520px;
 }
