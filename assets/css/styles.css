@@ -12,7 +12,7 @@ body {
 header {
   position: relative;
   height: 478px;
-  background-image: url(./assets/pictures/Header\ Background.png);
+  background-image: url(assets/pictures/Header\ Background.png);
   background-repeat: no-repeat;
 }
 .Containerheader h1 {
@@ -105,7 +105,7 @@ main {
   left: 154px;
   right: 154px;
   bottom: 1899px;
-  background: url(./assets/pictures/Section\ Image.png);
+  background: url(assets/pictures/Section\ Image.png);
   background-repeat: no-repeat;
 }
 .Section1 h2 {
@@ -145,7 +145,7 @@ main {
   left: 0px;
   top: 933px;
   background: #f6f6f6;
-  background-image: url(./assets/pictures/Section\ Image\ 1.png);
+  background-image: url(assets/pictures/Section\ Image\ 1.png);
   background-repeat: no-repeat;
   background-position: 520px;
 }
@@ -186,7 +186,7 @@ main {
   height: 448px;
   left: 0px;
   top: 1421px;
-  background-image: url(./assets/pictures/Section\ Image\ 2.png);
+  background-image: url(assets/pictures/Section\ Image\ 2.png);
   background-repeat: no-repeat;
   background-position: 150px;
 }
@@ -298,7 +298,7 @@ footer img {
     height: 506px;
     left: 0px;
     top: -1px;
-    background-image: url(./assets/pictures/Header\ Background\ responsivo.png);
+    background-image: url(assets/pictures/Header\ Background\ responsivo.png);
     background-size: contain;
   }
   .Containerheader h1 {
@@ -392,7 +392,7 @@ footer img {
     position: absolute;
     left: -20px;
     top: 1100px;
-    background-image: url(./assets/pictures/Section\ Image\ 1.png);
+    background-image: url(assets/pictures/Section\ Image\ 1.png);
     background-position: top;
     background-size: contain;
   }
@@ -419,7 +419,7 @@ footer img {
   .Section3 {
     width: 405px;
     height: 252px;
-    background-image: url(./assets/pictures/Section\ Image\ 2.png);
+    background-image: url(assets/pictures/Section\ Image\ 2.png);
     position: absolute;
     top: 1625px;
     left: 10px;
